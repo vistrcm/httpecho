@@ -1,0 +1,4 @@
+.PHOHY: lint
+
+lint: 
+	gometalinter ./

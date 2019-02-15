@@ -1,0 +1,5 @@
+.gitignore
+.git
+.vscode
+Makefile
+README.md
